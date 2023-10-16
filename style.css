@@ -124,7 +124,7 @@ ul {
 }
 
 .together {
-    margin-top: -8px;
+    margin-top: -12px;
     display: flex;
     justify-content: space-around;
     background-color: hsl(207, 100%, 98%);
